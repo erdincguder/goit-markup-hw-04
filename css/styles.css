@@ -203,6 +203,7 @@ h3 {
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office.jpg);
+  background-repeat: no-repeat;
   position: relative;
 }
 
@@ -285,10 +286,6 @@ h3 {
 .portfolio-text {
   padding-top: 124px;
   padding-bottom: 72px;
-}
-
-.portfolio-items {
-  border-bottom: 1px solid var(--cornflower);
 }
 
 .section-portfolio {
@@ -494,4 +491,8 @@ h3 {
 .portfolio-items:focus {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+}
+.portfolio-text-contents {
+  border: 1px solid #e7e9fc;
+  border-top: none;
 }
