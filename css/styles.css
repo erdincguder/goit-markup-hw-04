@@ -369,10 +369,10 @@ h3 {
   width: 64px;
   height: 64px;
 }
-.social-media .social-media-items .icon-instagram,
-.icon-twitter,
-.icon-facebook,
-.icon-linkedin {
+.social-media .icon-instagram,
+.social-media .icon-twitter,
+.social-media .icon-facebook,
+.social-media .icon-linkedin {
   width: 16px;
   height: 16px;
 }
@@ -411,10 +411,10 @@ h3 {
   gap: 16px;
   padding-bottom: 132px;
 }
-.footer-social-media .footer-social-media-items .icon-instagram,
-.icon-twitter,
-.icon-facebook,
-.icon-linkedin {
+.footer-social-media .icon-instagram,
+.footer-social-media .icon-twitter,
+.footer-social-media .icon-facebook,
+.footer-social-media .icon-linkedin {
   width: 24px;
   height: 24px;
 }
