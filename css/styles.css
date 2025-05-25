@@ -81,6 +81,15 @@ h3 {
   width: 1440px;
   margin: 0 auto;
 }
+.container-team {
+  width: 100vw;
+  margin: 0 auto;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
 
 .text-contents {
   font-family: var(--font-family);
@@ -436,6 +445,7 @@ h3 {
   display: flex;
   margin: 0 auto;
   gap: 120px;
+  padding-left: 156px;
 }
 .footer-logo-contents {
   width: 264px;
@@ -495,4 +505,12 @@ h3 {
 .portfolio-text-contents {
   border: 1px solid #e7e9fc;
   border-top: none;
+}
+.footer-container {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
